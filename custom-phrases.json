@@ -1,1 +1,52 @@
-{}
+{
+  "learntocode": [
+    "Write code to print ‘Hello World’",
+    "I need a code to print ‘Hello World’"
+  ],
+  "forloop": [
+    "for loop",
+    "give me a for loop",
+    "for loop code please"
+  ],
+  "motivation": [
+    "motivate me",
+    "send me some motivational quotes",
+    "inspire me",
+    "inspirational quotes"
+  ],
+  "whatyoucando": [
+    "what can you do ?",
+    "your features ?",
+    "tell me your features ?",
+    "tell me whatever you can"
+  ],
+  "about spark": [
+    "tell me about spark?",
+    "what is spark"
+  ],
+  "what is spark": [
+    "how is spark",
+    "sarpk",
+    "Spark",
+    "My first product",
+    "shellstacks 1st product",
+    "automated sharing",
+    "done!"
+  ],
+  "dnssupport": [
+    "I want help setting up my DNS entry for my email server.",
+    "Help me setting up my DNS Server",
+    "Need help in setting up DNS Server",
+    "my DNS server is not working"
+  ],
+  "accountdetails": [
+    "my name is xyz and account is <mailto:abc@yahoo.com|abc@yahoo.com>",
+    "my account is <mailto:abc@pqr.com|abc@pqr.com>",
+    "my phone is 12444444"
+  ],
+  "weather": [
+    "whats the weather now",
+    "is it raining ?",
+    "hows the day today"
+  ]
+}
